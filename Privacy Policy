@@ -1,0 +1,64 @@
+Last updated: 2025-12-29
+
+1. General Information
+
+Protecting personal data is important to the app owner.
+This App is a private, internal tool and is not offered to the public.
+
+2. Data Collected
+
+The App only processes data provided by TikTok, including:
+
+TikTok User ID
+
+Access and refresh tokens
+
+Basic profile information (e.g. username)
+
+Video files and metadata intended for publishing
+
+3. Purpose of Data Processing
+
+Collected data is used exclusively to:
+
+authenticate the TikTok account
+
+publish content via the TikTok API
+
+maintain an authorized connection to the TikTok account
+
+4. Data Storage
+
+Tokens are stored locally or server-side only
+
+No data is sold or shared with third parties
+
+No analytics, tracking, or advertising tools are used
+
+5. Data Sharing
+
+Personal data is not shared with third parties, except:
+
+where technically required to interact with the TikTok API
+
+or where legally required
+
+6. Data Deletion
+
+Authorized data can be removed at any time by:
+
+revoking the App’s access within the TikTok account settings
+
+deleting locally or server-stored credentials
+
+7. User Rights
+
+As this App is used exclusively by the app owner, no additional user data rights apply.
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated if technical or legal requirements change.
+
+9. Contact
+
+For privacy-related questions, the app owner can be contacted via the associated GitHub repository.
