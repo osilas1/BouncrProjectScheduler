@@ -1,0 +1,38 @@
+📄 Terms of Service
+
+Last updated: 2025-12-29
+
+1. Scope
+
+These Terms of Service govern the use of this application (“App”), which is designed to automate the publishing of content to TikTok.
+
+This App is a private, internal tool intended solely for use by the app owner.
+
+2. App Description
+
+The App allows videos to be programmatically uploaded and published to a TikTok account using the TikTok Content Posting API, after the account owner has explicitly authorized access via OAuth.
+
+3. Usage
+
+The App may only be used by the app owner.
+It is not intended for public use, third-party access, or commercial distribution.
+
+4. Disclaimer & Liability
+
+The App is provided “as is” without any warranties of any kind.
+
+The app owner is not liable for:
+
+failed or delayed content publishing
+
+API changes or limitations imposed by TikTok
+
+temporary or permanent restrictions applied by TikTok
+
+5. Changes
+
+The app owner reserves the right to modify these Terms of Service at any time.
+
+6. Contact
+
+For questions regarding the App or these Terms, the app owner can be contacted via the associated GitHub repository.
